@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<config>
+    <entry>
+        <xPath>/html/body/div[3]/div[3]/div/main/div/div/div/div/table[3]/tbody[2]/tr[2]/td[3]/div/span</xPath>
+        <url>https://usosweb.usos.pw.edu.pl/kontroler.php?_action=dla_stud/studia/oceny/index</url>
+        <loginUrl>https://cas.usos.pw.edu.pl/cas/login?service=https%3A%2F%2Fusosweb.usos.pw.edu.pl%2Fkontroler.php%3F_action%3Dlogowaniecas%2Findex&amp;locale=pl</loginUrl>
+        <login></login>
+        <password></password>
+        <loginFieldXpath>//*[@id="username"]</loginFieldXpath>
+        <passwordFieldXpath>//*[@id="password"]</passwordFieldXpath>
+        <submitButtonXpath>/html/body/div/div/div[2]/div[2]/form/div[5]/input[4]</submitButtonXpath>
+    </entry>
+    <entry>
+        <xPath>/html/body/div[3]/div[3]/div/main/div/div/div/div/table[3]/tbody[2]/tr[6]/td[3]/div/span</xPath>
+        <url>https://usosweb.usos.pw.edu.pl/kontroler.php?_action=dla_stud/studia/oceny/index</url>
+        <loginUrl>https://cas.usos.pw.edu.pl/cas/login?service=https%3A%2F%2Fusosweb.usos.pw.edu.pl%2Fkontroler.php%3F_action%3Dlogowaniecas%2Findex&amp;locale=pl</loginUrl>
+        <login/>
+        <password/>
+        <loginFieldXpath>//*[@id="username"]</loginFieldXpath>
+        <passwordFieldXpath>//*[@id="password"]</passwordFieldXpath>
+        <submitButtonXpath>/html/body/div/div/div[2]/div[2]/form/div[5]/input[4]</submitButtonXpath>
+    </entry>
+</config>
